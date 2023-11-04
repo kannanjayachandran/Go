@@ -1052,6 +1052,7 @@ Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 23. [`Selection`](./sort/selectionsort.go#L5): No description provided.
 24. [`Shell`](./sort/shellsort.go#L5): No description provided.
 25. [`Simple`](./sort/simplesort.go#L13): No description provided.
+26. [`Timsort`](./sort/timsort.go#L13):  Timsort is a simple generic implementation of Timsort algorithm.
 
 ---
 ##### Types
